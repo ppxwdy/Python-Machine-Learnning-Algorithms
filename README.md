@@ -14,13 +14,13 @@ working on it and make it a good project.
 
 ## What have been done:
 ### Supervised Learning
-1\ KNN
+1\ [KNN](https://github.com/ppxwdy/Python-Machine-Learnning-Algorithms/tree/main/Supervised_Learning/KNN)
 
-2\ Linear Regression
+2\ [Linear Regression](https://github.com/ppxwdy/Python-Machine-Learnning-Algorithms/tree/main/Supervised_Learning/LinearRegression)
 
-3\ Random Forest
+3\ [Random Forest](https://github.com/ppxwdy/Python-Machine-Learnning-Algorithms/tree/main/Supervised_Learning/RandomForest)
 
 ### Unsupervised Learning
-1\ K-means
+1\ [K-means](https://github.com/ppxwdy/Python-Machine-Learnning-Algorithms/tree/main/Unsupervised_Learning/K-means)
 
-2\ PCA
+2\ [PCA](https://github.com/ppxwdy/Python-Machine-Learnning-Algorithms/tree/main/Unsupervised_Learning/PCA)
